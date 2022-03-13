@@ -1,8 +1,11 @@
-bucket list of topics to learn: 
+bucket list of topics to learn and write up: 
 - Manifolds, properly, studying them w/ charts and atlases -> differential geometry 
 - symplectic geometry 
 - representation theory and lie algebras 
 - category theory 
 - algebraic number theory
 - analytic number theory 
+- algebraic topology (homology and cohomology) 
 - measures and integration 
+- lin alg (some loose topics, like dual spaces and things) 
+- real analysis proper 
